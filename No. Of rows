@@ -35,3 +35,11 @@ sc.close();
 }
 
 }
+output:
+Number of rows=5
+*****
+****
+***
+**
+*
+
